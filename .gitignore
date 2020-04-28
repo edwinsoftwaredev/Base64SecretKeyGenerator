@@ -1,0 +1,6 @@
+﻿# build results
+/Base64SecretKeyGenerator/bin/
+/Base64SecretKeyGenerator/obj/
+
+# Rider files
+/.idea/
